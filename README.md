@@ -28,32 +28,7 @@ EBWER is a technology-focused brand working across hardware, connected devices, 
 | **Software Development** | Custom applications, developer tools, and software projects |
 | **Cybersecurity** | Security tooling, research, and authorized testing workflows |
 
-## Featured Projects
 
-These projects are linked from the public GitHub profiles below. Check each repository for current status, ownership, license, and usage instructions before reusing or deploying it.
-
-### DentoGuard
-AI-assisted dental image analysis exploring computer vision and custom datasets.
-
-- **Language:** Python
-- **Repository:** [369emon/DentoGuard](https://github.com/369emon/DentoGuard)
-
-### GreeDoS V2
-A multi-vector network testing project described by its repository as a tool for cybersecurity red-team work. Use only in an isolated lab or against systems for which you have explicit authorization.
-
-- **Language:** Python
-- **Repository:** [369emon/GreeDoS_V2](https://github.com/369emon/GreeDoS_V2)
-
-### BannerGrap V2
-A Go-based network reconnaissance and enumeration framework for authorized security assessment.
-
-- **Language:** Go
-- **Repository:** [MrEchoFi/BannerGrapV2](https://github.com/MrEchoFi/BannerGrapV2)
-
-### EchoFi BoX
-A wireless penetration-testing hardware project intended for controlled, authorized security testing.
-
-- **Repository:** [MrEchoFi/EchoFi_BoX_V1-](https://github.com/MrEchoFi/EchoFi_BoX_V1-)
 
 ## Contact
 
